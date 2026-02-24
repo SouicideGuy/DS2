@@ -12,7 +12,7 @@ Sistema de evento encomendado pela direção do campus Rio Grande
 6. Execute os testes.
 
 ```console
-git clone https://github.com/ErikGamer1000/DS2
+git clone https://github.com/SouicideGuy/DS2
 cd eventif
 python -m venv .eventif
 source .eventif/bin/activate
